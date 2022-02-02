@@ -24,7 +24,7 @@ chmod 777 build_linux.sh; ./build_linux.sh
 ```
 ## Running
 ```sh
-    screen -d -m -L -Logfile bot.log -S 'bot' ~/bin/tarkov_bot 
+screen -d -m -L -Logfile bot.log -S 'bot' ~/bin/tarkov_bot 
 ```
 ## Reattach/Resume screen
 ```sh
