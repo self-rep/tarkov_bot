@@ -1,0 +1,8 @@
+{
+    "token": "YOUR DISCORD BOT TOKEN",
+    "prefix": "$",
+    "authorized_ids": [
+        "896439443924340796",
+        "AUTHORIZED IDS HERE FOR RELOAD COMMAND"
+    ]
+}

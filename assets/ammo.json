@@ -1,0 +1,1849 @@
+{
+    "Ammo": [
+        {
+        "Name": "AP SX",
+        "Stats": {
+            "penetration": "53",
+            "FleshDamage": "35",
+            "ArmourDamage": "46",
+            "ProjectileSpeed": "680M/S",
+            "Fragment_Chance": "0.1",
+            "RichochetChance": "0.6"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/4.6x30APenIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013742"
+    },
+    {
+        "Name": "FMJ SX",
+        "Stats": {
+            "penetration": "40",
+            "FleshDamage": "43",
+            "ArmourDamage": "41",
+            "ProjectileSpeed": "620M/S",
+            "Fragment_Chance": "0.2",
+            "RichochetChance": "0.4"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/4.6x30FMJIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013741"
+    },
+    {
+        "Name": "Subsonic SX",
+        "Stats": {
+            "penetration": "36",
+            "FleshDamage": "45",
+            "ArmourDamage": "46",
+            "ProjectileSpeed": "290M/S",
+            "Fragment_Chance": "0.2",
+            "RichochetChance": "0.5"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/4.6x30SubsonicIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013739"
+    },
+    {
+        "Name": "Action SX",
+        "Stats": {
+            "penetration": "18",
+            "FleshDamage": "65",
+            "ArmourDamage": "39",
+            "ProjectileSpeed": "690M/S",
+            "Fragment_Chance": "0.5",
+            "RichochetChance": "0.3"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/4.6x30ActionIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013744"
+    },
+        {
+            "Name": ".366 TKM AP",
+            "Stats": {
+                "Penetration": "42",
+                "FleshDamage": "90",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "602",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["Vepr AKM/VPO-209", "VPO-215"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/366APIcon.png/revision/latest?cb=20220108014208"
+        },
+        {
+            "Name": ".366 TKM EKO",
+            "Stats": {
+                "Penetration": "30",
+                "FleshDamage": "73",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "770",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["Vepr AKM/VPO-209", "VPO-215"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/EKOICON.png/revision/latest?cb=20220108014205"
+        },
+        {
+            "Name": ".366 TKM FMJ",
+            "Stats": {
+                "Penetration": "23",
+                "FleshDamage": "98",
+                "ArmourDamage": "48",
+                "ProjectileSpeed": "580",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["Vepr AKM/VPO-209", "VPO-215"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/TKFMJICON.png/revision/latest?cb=20220108014200"
+        },
+        {
+            "Name": ".366 TKM Geksa",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "110",
+                "ArmourDamage": "38",
+                "ProjectileSpeed": "550",
+                "Fragment_Chance": "0.45",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["Vepr AKM/VPO-209", "VPO-215"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/GEKSAICON.png/revision/latest?cb=20220108014203"
+        },
+        {
+            "Name": ".45 ACP AP",
+            "Stats": {
+                "Penetration": "38",
+                "FleshDamage": "70",
+                "ArmourDamage": "43",
+                "ProjectileSpeed": "299",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["M1911A1", "M45A1", "USP", "UMP-45", "KRISS Vector .45 ACP"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/45APIcon.png/revision/latest?cb=20210401044538"
+        },
+        {
+            "Name": ".45 ACP Match FMJ",
+            "Stats": {
+                "Penetration": "25",
+                "FleshDamage": "76",
+                "ArmourDamage": "36",
+                "ProjectileSpeed": "285",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["M1911A1", "M45A1", "USP", "UMP-45", "KRISS Vector .45 ACP"],
+            "Image_url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP_Match_FMJ"
+        },
+        {
+            "Name": ".45 ACP Lasermatch FMJ",
+            "Stats": {
+                "Penetration": "25",
+                "FleshDamage": "80",
+                "ArmourDamage": "37",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["M1911A1", "M45A1", "USP", "UMP-45", "KRISS Vector .45 ACP"],
+            "Image_url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP_Hydra-Shok"
+        },
+        {
+            "Name": ".45 ACP Hydra-Shock",
+            "Stats": {
+                "Penetration": "13",
+                "FleshDamage": "105",
+                "ArmourDamage": "30",
+                "ProjectileSpeed": "274",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.066"
+            },
+            "Weapons": ["M1911A1", "M45A1", "USP", "UMP-45", "KRISS Vector .45 ACP"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/db/45LMIcon.png/revision/latest?cb=20200727151111"
+        },
+        {
+            "Name": ".45 RIP",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "137",
+                "ArmourDamage": "12",
+                "ProjectileSpeed": "293",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.002"
+            },
+            "Weapons": ["M1911A1", "M45A1", "USP", "UMP-45", "KRISS Vector .45 ACP"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/.45_RIP_Icon.png/revision/latest?cb=20200508230154"
+        },
+        {
+            "Name": "12x70 AP-20 Slug",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "164",
+                "ArmourDamage": "65",
+                "ProjectileSpeed": "510",
+                "Fragment_Chance": "0.03",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/12-70_AP-20_icon.png/revision/latest?cb=20191109230243"
+        },
+        {
+            "Name": "12x70mm Flechette",
+            "Stats": {
+                "Penetration": "31",
+                "FleshDamage": "25×8",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "320",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/12-70_Flechette_icon.png/revision/latest?cb=20191109230123"
+        },
+        {
+            "Name": "12x70mm Shell with .50 BMG",
+            "Stats": {
+                "Penetration": "26",
+                "FleshDamage": "197",
+                "ArmourDamage": "57",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/12-70_.50_BMG_icon.png/revision/latest?cb=20191109230148"
+        },
+        {
+            "Name": "12x70mm FTX Custom Llte Slug",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "183",
+                "ArmourDamage": "50",
+                "ProjectileSpeed": "480",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/FTX_Slug_Icon.png/revision/latest?cb=20191029185252"
+        },
+        {
+            "Name": "12x70mm \"Poleva-6u\" Slug",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "150",
+                "ArmourDamage": "50",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/1270Poleva6SlugIcon.png/revision/latest?cb=20191031132854"
+        },
+        {
+            "Name": "12x70mm Dual Sabot Slug",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "85×2",
+                "ArmourDamage": "65",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/12-70_Dual_Sabot_icon.png/revision/latest?cb=20191109225941"
+        },
+        {
+            "Name": "12x70mm \"Poleva-3\" Slug",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "140",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Poleva3_Icon.png/revision/latest?cb=20191029204201"
+        },
+        {
+            "Name": "12x70mm Lead Slug",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "167",
+                "ArmourDamage": "45",
+                "ProjectileSpeed": "370",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/12x70SLUG.png/revision/latest?cb=20210704231821"
+        },
+        {
+            "Name": "12x70 HP Slug Copper Sabot Premier",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "206",
+                "ArmourDamage": "46",
+                "ProjectileSpeed": "442",
+                "Fragment_Chance": "0.38",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/12x70SLUG_CSP-icon.png/revision/latest?cb=20191031182320"
+        },
+        {
+            "Name": "12x70mm Grizzly 40 Slug",
+            "Stats": {
+                "Penetration": "12",
+                "FleshDamage": "190",
+                "ArmourDamage": "48",
+                "ProjectileSpeed": "390",
+                "Fragment_Chance": "0.12",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/1270Grizzly40SlugIcon.png/revision/latest?cb=20191031133206"
+        },
+        {
+            "Name": "12x70mm HP Slug \"SFormance\"",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "220",
+                "ArmourDamage": "12",
+                "ProjectileSpeed": "594",
+                "Fragment_Chance": "0.39",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/12-70_HP_SF_icon.png/revision/latest?cb=20191109230350"
+        },
+        {
+            "Name": "12x70 7mm Buckshot",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "39×8",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/12-70_HP_SF_icon.png/revision/latest?cb=20191109230350"
+        },
+        {
+            "Name": "12x70 6.5mm \"Express\"",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "35×9",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/127065ExpressBuckshotIcon.png/revision/latest?cb=20191031133515"
+        },
+        {
+            "Name": "12x70 \"Magnum\"",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "50×8",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "385",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/127065ExpressMagnumIcon.png/revision/latest?cb=20211212154311"
+        },
+        {
+            "Name": "12x70mm RIP",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "265",
+                "ArmourDamage": "11",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.01"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/12x70ripicon.png/revision/latest?cb=20190518222146"
+        },
+        {
+            "Name": "12x70 5.25mm Buckshot",
+            "Stats": {
+                "Penetration": "1",
+                "FleshDamage": "37×8",
+                "ArmourDamage": "15",
+                "ProjectileSpeed": "320",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [ "Saiga-12", "MP-133", "MP-153", "MP-155", "M870", "590A1", "MP-43-1C", "MTs-255-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/1270525BuckshotIcon.png/revision/latest?cb=20191031133847"
+        },
+        {
+            "Name": "20x70mm \"Poleva-6u\" Slug",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "135",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "445",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/70x20SLUG_poleva6u-icon.png/revision/latest?cb=20191030153553"
+        },
+        {
+            "Name": "20x70mm Star Slug ",
+            "Stats": {
+                "Penetration": "16",
+                "FleshDamage": "154",
+                "ArmourDamage": "42",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/20-70_Star_Slug_icon.png/revision/latest?cb=20191109232917"
+        },
+        {
+            "Name": "20x70mm \"Poleva-3\" Slug ",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "120",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "425",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/70x20SLUG_poleva3-icon.png/revision/latest?cb=20191030153352"
+        },
+        {
+            "Name": "20x70mm Devastator Slug",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "198",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "405",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/2070DevastatorSlugIcon.png/revision/latest?cb=20191031134640"
+        },
+        {
+            "Name": "20x70 7.5mm Buckshot",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "25×8",
+                "ArmourDamage": "14",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/20x70BUCKSHOT.png/revision/latest?cb=20191109233602"
+        },
+        {
+            "Name": "20x70 7.3mm Buckshot",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "23×9",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "475",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/86/20x70BUCKSHOT_73.png/revision/latest?cb=20191031144939"
+        },
+        {
+            "Name": "20x70 6.2mm Buckshot",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "22×8",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/207062mmBuckshotIcon.png/revision/latest?cb=20191031134200"
+        },
+        {
+            "Name": "20x70 5.6mm Buckshot",
+            "Stats": {
+                "Penetration": "1",
+                "FleshDamage": "26×8",
+                "ArmourDamage": "12",
+                "ProjectileSpeed": "340",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": ["TOZ-106"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/20x70BUCKSHOT_56.png/revision/latest?cb=20191030152620"
+        },
+        {
+            "Name": "23x75mm \"Barricade\"",
+            "Stats": {
+                "Penetration": "39",
+                "FleshDamage": "192",
+                "ArmourDamage": "75",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["KS-23M"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/23x75_Barricade_icon.png/revision/latest?cb=20201020041011"
+        },
+        {
+            "Name": "23x75mm Shrapnel-10",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "87x8",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "270",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["KS-23M"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/63/23x75_Shrap-10_icon.png/revision/latest?cb=20201020041020"
+        },
+        {
+            "Name": "23x75mm Shrapnel-25",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "78x8",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "375",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["KS-23M"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/Shr25icon.png/revision/latest?cb=20201019175250"
+        },
+        {
+            "Name": "23x75mm \"Star\"",
+            "Stats": {
+                "Penetration": "0",
+                "FleshDamage": "0",
+                "ArmourDamage": "0",
+                "ProjectileSpeed": "0",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["KS-23M"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/ff/23x75_Star_icon.png/revision/latest?cb=20201019173016"
+        },
+        {
+            "Name": "9x39mm BP gs",
+            "Stats": {
+                "Penetration": "55",
+                "FleshDamage": "60",
+                "ArmourDamage": "68",
+                "ProjectileSpeed": "295",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.5"
+            },
+            "Weapons": ["VSS Vintorez", "AS Val"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/7n12icon.png/revision/latest?cb=20220130011528"
+        },
+        {
+            "Name": "9x39mm SPP gs",
+            "Stats": {
+                "Penetration": "50",
+                "FleshDamage": "64",
+                "ArmourDamage": "56",
+                "ProjectileSpeed": "310",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["VSS Vintorez", "AS Val"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/7n9icon.png/revision/latest?cb=20220130011530"
+        },
+        {
+            "Name": "9x39mm PAB-9 gs",
+            "Stats": {
+                "Penetration": "48",
+                "FleshDamage": "62",
+                "ArmourDamage": "72",
+                "ProjectileSpeed": "320",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.48"
+            },
+            "Weapons": ["VSS Vintorez", "AS Val"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/9x39_PAB-9_Icon.png/revision/latest?cb=20220108015443"
+        },
+        {
+            "Name": "9x39mm SP-6",
+            "Stats": {
+                "Penetration": "46",
+                "FleshDamage": "58",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "305",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.5"
+            },
+            "Weapons": ["VSS Vintorez", "AS Val"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/SP6ICON.png/revision/latest?cb=20220108015448"
+        },
+        {
+            "Name": "9x39mm SP-5",
+            "Stats": {
+                "Penetration": "38",
+                "FleshDamage": "68",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["VSS Vintorez", "AS Val"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/SP5ICON.png/revision/latest?cb=20220108015449"
+        },
+        {
+            "Name": "9x21mm BT gzh",
+            "Stats": {
+                "Penetration": "39",
+                "FleshDamage": "63",
+                "ArmourDamage": "47",
+                "ProjectileSpeed": "397",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["SR-1MP Gyurza"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/9x21sp13.png/revision/latest?cb=20211220232133"
+        },
+        {
+            "Name": "9x21mm PS gzh",
+            "Stats": {
+                "Penetration": "35",
+                "FleshDamage": "49",
+                "ArmourDamage": "46",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["SR-1MP Gyurza"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/9x21sp10.png/revision/latest?cb=20211220232408"
+        },
+        {
+            "Name": "9x21mm P gzh",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "65",
+                "ArmourDamage": "44",
+                "ProjectileSpeed": "413",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["SR-1MP Gyurza"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/9x21sp11.png/revision/latest?cb=20211220232414"
+        },
+        {
+            "Name": "9x21mm PE gzh",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "80",
+                "ArmourDamage": "63",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["SR-1MP Gyurza"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/9x21sp12.png/revision/latest?cb=20211220232420"
+        },
+        {
+            "Name": "9x19mm PBP gzh",
+            "Stats": {
+                "Penetration": "39",
+                "FleshDamage": "52",
+                "ArmourDamage": "53",
+                "ProjectileSpeed": "560",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/7N31Icon.png/revision/latest?cb=20210401044432"
+        },
+        {
+            "Name": "9x19mm AP 6.3",
+            "Stats": {
+                "Penetration": "30",
+                "FleshDamage": "52",
+                "ArmourDamage": "48",
+                "ProjectileSpeed": "392",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/9x19ap.png/revision/latest?cb=20190518234059"
+        },
+        {
+            "Name": "9x19mm Pst gzh",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "54",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "457",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/9x19pst.png/revision/latest?cb=20211212140924"
+        },
+        {
+            "Name": "9x19mm T gzh",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "58",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "365",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/9x19_mm_Green_Tracer_Icon.png/revision/latest?cb=20190518234111"
+        },
+        {
+            "Name": "9x19mm Luger CCI",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "70",
+                "ArmourDamage": "38",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/9x19cgi.png/revision/latest?cb=20190518234127"
+        },
+        {
+            "Name": "9x19mm PSO gzh",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "59",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "340",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/9x19pso.png/revision/latest?cb=20211212152857"
+        },
+        {
+            "Name": "9x19mm QuakeMaker",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "85",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/QuakerMakerIcon.png/revision/latest?cb=20200727151122"
+        },
+        {
+            "Name": "9x19mm RIP",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "102",
+                "ArmourDamage": "11",
+                "ProjectileSpeed": "381",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.002"
+            },
+            "Weapons": ["Saiga-9", "PP-19-01 Vityaz-SN", "PP-19-01", "MPX", "MP5", "MP5K-N", "MP9", "MP9-N", "KRISS Vector 9x19", "STM-9 P226R", "MP-443 Grach", "Glock 18C", "Glock 17", "M9A3", "PL-15"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/9x19ripicon.png/revision/latest?cb=20190518234208"
+        },
+        {
+            "Name": "9x18mm PM PBM gzh",
+            "Stats": {
+                "Penetration": "28",
+                "FleshDamage": "40",
+                "ArmourDamage": "30",
+                "ProjectileSpeed": "519",
+                "Fragment_Chance": "0.16",
+                "RichochetChance": "0.09"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/9x18PBM.png/revision/latest?cb=20190519004209"
+        },
+        {
+            "Name": "9x18mm PM PMM PstM gzh",
+            "Stats": {
+                "Penetration": "24",
+                "FleshDamage": "58",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.095"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/9x18PMM.png/revision/latest?cb=20190519004217"
+        },
+        {
+            "Name": "9x18mm PM 9 BZT gzh",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "53",
+                "ArmourDamage": "28",
+                "ProjectileSpeed": "325",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.095"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/9x189BZTGZH.png/revision/latest?cb=20190519004143"
+        },
+        {
+            "Name": "9x18mm PM RG028 gzh",
+            "Stats": {
+                "Penetration": "13",
+                "FleshDamage": "65",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "330",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/9x18RG028GZH.png/revision/latest?cb=20190519004332"
+        },
+        {
+            "Name": "9x18mm PM Pst gzh",
+            "Stats": {
+                "Penetration": "12",
+                "FleshDamage": "50",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "298",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/9x18PSTGZH.png/revision/latest?cb=20190519004314"
+        },
+        {
+            "Name": "9x18mm PM PPT gzh",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "59",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "301",
+                "Fragment_Chance": "0.166",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/9x18PPTGZH.png/revision/latest?cb=20190519004238"
+        },
+        {
+            "Name": "9x18mm PM PPe gzh",
+            "Stats": {
+                "Penetration": "7",
+                "FleshDamage": "61",
+                "ArmourDamage": "15",
+                "ProjectileSpeed": "297",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/9x18PPEGZH.png/revision/latest?cb=20190519004227"
+        },
+        {
+            "Name": "9x18mm PM PRS gs",
+            "Stats": {
+                "Penetration": "6",
+                "FleshDamage": "58",
+                "ArmourDamage": "16",
+                "ProjectileSpeed": "302",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.01"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/9x18PRSGS.png/revision/latest?cb=20190519004246"
+        },
+        {
+            "Name": "9x18mm PM PS gs PPO",
+            "Stats": {
+                "Penetration": "6",
+                "FleshDamage": "55",
+                "ArmourDamage": "16",
+                "ProjectileSpeed": "330",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/9x18PSGSPPO.png/revision/latest?cb=20190519004255"
+        },
+        {
+            "Name": "9x18mm PM PSO gzh",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "54",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "315",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/9x18PSOGZH.png/revision/latest?cb=20190519004304"
+        },
+        {
+            "Name": "9x18mm PM 9 P gzh",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "50",
+                "ArmourDamage": "16",
+                "ProjectileSpeed": "302",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/9x189PGZH.png/revision/latest?cb=20190519004159"
+        },
+        {
+            "Name": "9x18mm PM PSV",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "69",
+                "ArmourDamage": "5",
+                "ProjectileSpeed": "280",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/9x18PSV.png/revision/latest?cb=20190519004322"
+        },
+        {
+            "Name": "9x18mm PM SP7 gzh",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "77",
+                "ArmourDamage": "5",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/59/9x18SP7GZH.png/revision/latest?cb=20190519004340"
+        },
+        {
+            "Name": "9x18mm PM SP8 gzh",
+            "Stats": {
+                "Penetration": "1",
+                "FleshDamage": "67",
+                "ArmourDamage": "2",
+                "ProjectileSpeed": "250",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["PP-91-01 Kedr-B", "PP-91 Kedr", "PP-9 Klin", "PM", "PM (t)", "PB", "APB", "APS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/9x18SP8GZH.png/revision/latest?cb=20190519004347"
+        },
+        {
+            "Name": "5.7x28mm SS190",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "49",
+                "ArmourDamage": "43",
+                "ProjectileSpeed": "716",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.6"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/57x28mmSS190Icon.png/revision/latest?cb=20220130023232"
+        },
+        {
+            "Name": "5.7x28mm SB193",
+            "Stats": {
+                "Penetration": "35",
+                "FleshDamage": "54",
+                "ArmourDamage": "37",
+                "ProjectileSpeed": "305",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/57x28mmSB193Icon.png/revision/latest?cb=20220130023225"
+        },
+        {
+            "Name": "5.7x28mm L191",
+            "Stats": {
+                "Penetration": "33",
+                "FleshDamage": "58",
+                "ArmourDamage": "41",
+                "ProjectileSpeed": "716",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.6"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/57x28mmL191Icon.png/revision/latest?cb=20220130023213"
+        },
+        {
+            "Name": "5.7x28mm SS197SR",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "62",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "594",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/57x28mmSS197SRIcon.png/revision/latest?cb=20220130023236"
+        },
+        {
+            "Name": "5.7x28mm R37.X",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "81",
+                "ArmourDamage": "14",
+                "ProjectileSpeed": "724",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/R37X_icon.png/revision/latest?cb=20220130023221"
+        },
+        {
+            "Name": "5.7x28mm SS198LF",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "74",
+                "ArmourDamage": "15",
+                "ProjectileSpeed": "792",
+                "Fragment_Chance": "0.8",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/57x28mmSS198LFIcon.png/revision/latest?cb=20220130023239"
+        },
+        {
+            "Name": "5.7x28mm R37.F",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "98",
+                "ArmourDamage": "7",
+                "ProjectileSpeed": "729",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["P90", "FN 5-7"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6f/R37F_icon.png/revision/latest?cb=20220130023337"
+        },
+        {
+            "Name": ".300 ACC Blackout AP",
+            "Stats": {
+                "Penetration": "45",
+                "FleshDamage": "51",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "720",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["SIG MCX 300 blk"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/BlackoutAP_Icon_.png/revision/latest/scale-to-width-down/64?cb=20220108022610"
+        },
+        {
+            "Name": ".300 Blackout M62 Tracer",
+            "Stats": {
+                "Penetration": "34",
+                "FleshDamage": "54",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "442",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.37"
+            },
+            "Weapons": ["SIG MCX 300 blk"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/300_BLK_M62_Icon.png/revision/latest?cb=20220101001352"
+        },
+        {
+            "Name": ".300 ACC Blackout BCP FMJ",
+            "Stats": {
+                "Penetration": "29",
+                "FleshDamage": "60",
+                "ArmourDamage": "36",
+                "ProjectileSpeed": "605",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": ["SIG MCX 300 blk"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/BlackoutBPZ_Icon.png/revision/latest?cb=20211226153907"
+        },
+        {
+            "Name": ".300 Blackout V-Max",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "72",
+                "ArmourDamage": "25",
+                "ProjectileSpeed": "723",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["SIG MCX 300 blk"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Vmax.png/revision/latest?cb=20220101001628"
+        },
+        {
+            "Name": ".300 Whisper",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "90",
+                "ArmourDamage": "19",
+                "ProjectileSpeed": "853",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["SIG MCX 300 blk"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Whisper_Icon.png/revision/latest?cb=20211212152120"
+        },
+        {
+            "Name": "7.62x39mm MAI AP",
+            "Stats": {
+                "Penetration": "58",
+                "FleshDamage": "46",
+                "ArmourDamage": "76",
+                "ProjectileSpeed": "875",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.435"
+            },
+            "Weapons": ["Vepr KM/VPO-136", "AKMSN", "AKMS", "AKMN", "AKM", "AK-104", "AK-103", "Mk47", "OP-SKS", "SKS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/7.62x39_MAI_AP_icon.png/revision/latest?cb=20220108025204"
+        },
+        {
+            "Name": "7.62x39mm BP gzh",
+            "Stats": {
+                "Penetration": "47",
+                "FleshDamage": "58",
+                "ArmourDamage": "63",
+                "ProjectileSpeed": "730",
+                "Fragment_Chance": "0.12",
+                "RichochetChance": "0.315"
+            },
+            "Weapons": ["Vepr KM/VPO-136", "AKMSN", "AKMS", "AKMN", "AKM", "AK-104", "AK-103", "Mk47", "OP-SKS", "SKS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/7.62x39BP.png/revision/latest?cb=20220130011610"
+        },
+        {
+            "Name": "7.62x39mm PS gzh",
+            "Stats": {
+                "Penetration": "32",
+                "FleshDamage": "57",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "700",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.35"
+            },
+            "Weapons": ["Vepr KM/VPO-136", "AKMSN", "AKMS", "AKMN", "AKM", "AK-104", "AK-103", "Mk47", "OP-SKS", "SKS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/7.62x39PS.png/revision/latest?cb=20220130011608"
+        },
+        {
+            "Name": "7.62x39mm T45M1 gzh",
+            "Stats": {
+                "Penetration": "30",
+                "FleshDamage": "62",
+                "ArmourDamage": "46",
+                "ProjectileSpeed": "720",
+                "Fragment_Chance": "0.12",
+                "RichochetChance": "0.35"
+            },
+            "Weapons": ["Vepr KM/VPO-136", "AKMSN", "AKMS", "AKMN", "AKM", "AK-104", "AK-103", "Mk47", "OP-SKS", "SKS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/7.62x39T45M.png/revision/latest?cb=20220108025207"
+        },
+        {
+            "Name": "7.62x39mm US gzh",
+            "Stats": {
+                "Penetration": "29",
+                "FleshDamage": "56",
+                "ArmourDamage": "42",
+                "ProjectileSpeed": "300",
+                "Fragment_Chance": "0.075",
+                "RichochetChance": "0.358"
+            },
+            "Weapons": ["Vepr KM/VPO-136", "AKMSN", "AKMS", "AKMN", "AKM", "AK-104", "AK-103", "Mk47", "OP-SKS", "SKS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/7.62x39US.png/revision/latest?cb=20220130011607"
+        },
+        {
+            "Name": "7.62x39mm HP",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "87",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "754",
+                "Fragment_Chance": "0.2625",
+                "RichochetChance": "0.175"
+            },
+            "Weapons": ["Vepr KM/VPO-136", "AKMSN", "AKMS", "AKMN", "AKM", "AK-104", "AK-103", "Mk47", "OP-SKS", "SKS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/7.62x39HP.png/revision/latest?cb=20220108025202"
+        },
+        {
+            "Name": "7.62x51mm M993",
+            "Stats": {
+                "Penetration": "70",
+                "FleshDamage": "67",
+                "ArmourDamage": "85",
+                "ProjectileSpeed": "910",
+                "Fragment_Chance": "0.13",
+                "RichochetChance": "0.28"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/7.62x51M933icon.png/revision/latest?cb=20220106054239"
+        },
+        {
+            "Name": "7.62x51mm M61",
+            "Stats": {
+                "Penetration": "64",
+                "FleshDamage": "70",
+                "ArmourDamage": "83",
+                "ProjectileSpeed": "849",
+                "Fragment_Chance": "0.13",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/M61ICON.png/revision/latest?cb=20220106054848"
+        },
+        {
+            "Name": "7.62x51mm M62",
+            "Stats": {
+                "Penetration": "44",
+                "FleshDamage": "79",
+                "ArmourDamage": "75",
+                "ProjectileSpeed": "816",
+                "Fragment_Chance": "0.14",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/M62ICON.png/revision/latest?cb=20220106054845"
+        },
+        {
+            "Name": "7.62x51mm M80",
+            "Stats": {
+                "Penetration": "41",
+                "FleshDamage": "80",
+                "ArmourDamage": "66",
+                "ProjectileSpeed": "833",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/M80ICON.png/revision/latest?cb=20220106054524"
+        },
+        {
+            "Name": "7.62x51mm TCW SP",
+            "Stats": {
+                "Penetration": "36",
+                "FleshDamage": "60",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "808",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.5"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/TPZ_SP_icon.png/revision/latest?cb=20220106053627"
+        },
+        {
+            "Name": "7.62x51mm  BCP FMJ",
+            "Stats": {
+                "Penetration": "31",
+                "FleshDamage": "88",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "840",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5b/BPZ_FMJ_icon.png/revision/latest?cb=20220106033422"
+        },
+        {
+            "Name": "7.62x51mm Ultra Nosler",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "107",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "822",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["M700", "DVL-10", "Orsis T-5000", "RSASS", "M1A", "SR-25", "SA-58", "DT MDR .308", "Vepr Hunter/VPO-101", "RFB"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/Ultra_Nosler_icon.png/revision/latest?cb=20220106053247"
+        },
+        {
+            "Name": "7.62x54mmR BS",
+            "Stats": {
+                "Penetration": "70",
+                "FleshDamage": "72",
+                "ArmourDamage": "88",
+                "ProjectileSpeed": "785",
+                "Fragment_Chance": "0.083",
+                "RichochetChance": "0.34"
+            },
+            "Weapons": ["SV-98", "Mosin Inf", "Mosin", "SVDS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d0/7N37_ICON.png/revision/latest?cb=20220108021255"
+        },
+        {
+            "Name": "7.62x54mmR SNB",
+            "Stats": {
+                "Penetration": "62",
+                "FleshDamage": "75",
+                "ArmourDamage": "87",
+                "ProjectileSpeed": "875",
+                "Fragment_Chance": "0.08",
+                "RichochetChance": "0.285"
+            },
+            "Weapons": ["SV-98", "Mosin Inf", "Mosin", "SVDS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/SNBICON.png/revision/latest?cb=20220108021252"
+        },
+        {
+            "Name": "7.62x54mmR BT gzh",
+            "Stats": {
+                "Penetration": "59",
+                "FleshDamage": "78",
+                "ArmourDamage": "87",
+                "ProjectileSpeed": "820",
+                "Fragment_Chance": "0.081",
+                "RichochetChance": "0.265"
+            },
+            "Weapons": ["SV-98", "Mosin Inf", "Mosin", "SVDS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/7bt1_icon.png/revision/latest?cb=20220108021258"
+        },
+        {
+            "Name": "7.62x54mmR PS",
+            "Stats": {
+                "Penetration": "45",
+                "FleshDamage": "86",
+                "ArmourDamage": "84",
+                "ProjectileSpeed": "875",
+                "Fragment_Chance": "0.083",
+                "RichochetChance": "0.285"
+            },
+            "Weapons": ["SV-98", "Mosin Inf", "Mosin", "SVDS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/7N1ICON.png/revision/latest?cb=20220108021257"
+        },
+        {
+            "Name": "7.62x54mmR LPS Gzh",
+            "Stats": {
+                "Penetration": "42",
+                "FleshDamage": "81",
+                "ArmourDamage": "78",
+                "ProjectileSpeed": "865",
+                "Fragment_Chance": "0.18",
+                "RichochetChance": "0.39"
+            },
+            "Weapons": ["SV-98", "Mosin Inf", "Mosin", "SVDS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/LPSGZHICON.png/revision/latest?cb=20220108021253"
+        },
+        {
+            "Name": "7.62x54mmR T-46M",
+            "Stats": {
+                "Penetration": "41",
+                "FleshDamage": "82",
+                "ArmourDamage": "83",
+                "ProjectileSpeed": "800",
+                "Fragment_Chance": "0.18",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": ["SV-98", "Mosin Inf", "Mosin", "SVDS"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/T46M_AMMO.png/revision/latest?cb=20220108021250"
+        },
+        {
+            "Name": ".338 Lapua Magnum AP",
+            "Stats": {
+                "Penetration": "79",
+                "FleshDamage": "115",
+                "ArmourDamage": "89",
+                "ProjectileSpeed": "849",
+                "Fragment_Chance": "0.13",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": ["Mk-18 .338 LM"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/86/338_ap.png/revision/latest?cb=20220129043721"
+        },
+        {
+            "Name": ".338 Lapua Magnum FMJ",
+            "Stats": {
+                "Penetration": "47",
+                "FleshDamage": "122",
+                "ArmourDamage": "83",
+                "ProjectileSpeed": "900",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["Mk-18 .338 LM"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/338_fmj.png/revision/latest?cb=20220129043718"
+        },
+        {
+            "Name": ".338 UCW Lapua Magnum",
+            "Stats": {
+                "Penetration": "32",
+                "FleshDamage": "142",
+                "ArmourDamage": "70",
+                "ProjectileSpeed": "849",
+                "Fragment_Chance": "0.6",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["Mk-18 .338 LM"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/338_upz_icon.png/revision/latest?cb=20220126073728"
+        },
+        {
+            "Name": ".338 Lapua Magnum TAC-X",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "196",
+                "ArmourDamage": "55",
+                "ProjectileSpeed": "880",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["Mk-18 .338 LM"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/338_tacx.png/revision/latest?cb=20220129043719"
+        },
+        {
+            "Name": "7.62x25mm TT Pst gzh",
+            "Stats": {
+                "Penetration": "25",
+                "FleshDamage": "50",
+                "ArmourDamage": "36",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/TTPSTGZH.png/revision/latest?cb=20190519002041"
+        },
+        {
+            "Name": "7.62x25mm TT PT gzh",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "55",
+                "ArmourDamage": "34",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.166",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/TTPTGZH.png/revision/latest?cb=20190519002059"
+        },
+        {
+            "Name": "7.62x25mm TT P gl",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "58",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/TTPGL.png/revision/latest?cb=20190519002020"
+        },
+        {
+            "Name": "7.62x25mm TT AKBS",
+            "Stats": {
+                "Penetration": "12",
+                "FleshDamage": "58",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "425",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/TTAKBS.png/revision/latest?cb=20190519001904"
+        },
+        {
+            "Name": "7.62x25mm TT FMJ43",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "60",
+                "ArmourDamage": "29",
+                "ProjectileSpeed": "427",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/TTFMJ43.png/revision/latest?cb=20190519001920"
+        },
+        {
+            "Name": "7.62x25mm TT LRN",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "64",
+                "ArmourDamage": "28",
+                "ProjectileSpeed": "375",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/TTLRN.png/revision/latest?cb=20190519001939"
+        },
+        {
+            "Name": "7.62x25mm TT LRNPC",
+            "Stats": {
+                "Penetration": "7",
+                "FleshDamage": "66",
+                "ArmourDamage": "27",
+                "ProjectileSpeed": "385",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["TT (gold)", "TT", "PPSH-41"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/TTLRNPC.png/revision/latest?cb=20190519001956"
+        },
+        {
+            "Name": "5.56x45mm SSA AP",
+            "Stats": {
+                "Penetration": "56",
+                "FleshDamage": "36",
+                "ArmourDamage": "64",
+                "ProjectileSpeed": "1050",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.48"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/SSA_AP64px.png/revision/latest?cb=20220108040008"
+        },
+        {
+            "Name": "5.56x45mm M995",
+            "Stats": {
+                "Penetration": "53",
+                "FleshDamage": "40",
+                "ArmourDamage": "58",
+                "ProjectileSpeed": "1013",
+                "Fragment_Chance": "0.32",
+                "RichochetChance": "0.36"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/M995ICON.png/revision/latest?cb=20220108035948"
+        },
+        {
+            "Name": "5.56x45mm M855A1",
+            "Stats": {
+                "Penetration": "45",
+                "FleshDamage": "46",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "945",
+                "Fragment_Chance": "0.34",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/M855A1ICON.png/revision/latest?cb=20220108035923"
+        },
+        {
+            "Name": "5.56x45mm M856A1",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "51",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "940",
+                "Fragment_Chance": "0.328",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/M856A1ICON.png/revision/latest?cb=20220108035940"
+        },
+        {
+            "Name": "5.56x45mm M855",
+            "Stats": {
+                "Penetration": "28",
+                "FleshDamage": "50",
+                "ArmourDamage": "37",
+                "ProjectileSpeed": "922",
+                "Fragment_Chance": "0.4",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/M855ICON.png/revision/latest?cb=20220108035916"
+        },
+        {
+            "Name": "5.56x45mm FMJ",
+            "Stats": {
+                "Penetration": "24",
+                "FleshDamage": "52",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "957",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.26"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/55FMJICON.png/revision/latest?cb=20220108035857"
+        },
+        {
+            "Name": "5.56x45mm M856",
+            "Stats": {
+                "Penetration": "23",
+                "FleshDamage": "55",
+                "ArmourDamage": "54",
+                "ProjectileSpeed": "874",
+                "Fragment_Chance": "0.328",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/M856ICON.png/revision/latest?cb=20220108035929"
+        },
+        {
+            "Name": "5.56x45mm Mk 318 Mod 0 (SOST)",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "67",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "902",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Mk318SOSTICON.png/revision/latest?cb=20220108040000"
+        },
+        {
+            "Name": "5.56x45mm MK 255 Mod 0 (RRLP)",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "60",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "936",
+                "Fragment_Chance": "0.03",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/MK255ICON.png/revision/latest?cb=20220108035954"
+        },
+        {
+            "Name": "5.56x45mm HP",
+            "Stats": {
+                "Penetration": "9",
+                "FleshDamage": "72",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "947",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/55HPICON.png/revision/latest?cb=20220108035904"
+        },
+        {
+            "Name": "5.56x45mm Warmageddon",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "85",
+                "ArmourDamage": "14",
+                "ProjectileSpeed": "910",
+                "Fragment_Chance": "0.9",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": ["M4A1", "HK 416A5", "DT MDR", "AK-102", "AK-101", "ADAR 2-15", "TX-15 DML"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/556warmageicon.png/revision/latest?cb=20220102175258"
+        },
+        {
+            "Name": "5.45x39mm PPBS gs",
+            "Stats": {
+                "Penetration": "62",
+                "FleshDamage": "37",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "905",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/7n39icon.png/revision/latest?cb=20220129191023"
+        },
+        {
+            "Name": "5.45x39mm BS gs",
+            "Stats": {
+                "Penetration": "51",
+                "FleshDamage": "40",
+                "ArmourDamage": "57",
+                "ProjectileSpeed": "830",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/74BSICON.png/revision/latest?cb=20220129191021"
+        },
+        {
+            "Name": "5.45x39mm 7N40",
+            "Stats": {
+                "Penetration": "44",
+                "FleshDamage": "52",
+                "ArmourDamage": "50",
+                "ProjectileSpeed": "915",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.15"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/21/7N40.png/revision/latest?cb=20220129050657"
+        },
+        {
+            "Name": "5.45x39mm BT",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "44",
+                "ArmourDamage": "49",
+                "ProjectileSpeed": "880",
+                "Fragment_Chance": "0.164",
+                "RichochetChance": "0.37"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/74BTICON.png/revision/latest?cb=20220129191020"
+        },
+        {
+            "Name": "5.45x39mm BP",
+            "Stats": {
+                "Penetration": "35",
+                "FleshDamage": "49",
+                "ArmourDamage": "41",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.16",
+                "RichochetChance": "0.36"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/74BPICON.png/revision/latest?cb=20220129191022"
+        },
+        {
+            "Name": "5.45x39mm PP gs",
+            "Stats": {
+                "Penetration": "33",
+                "FleshDamage": "48",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/74PPICON.png/revision/latest?cb=20220129191018"
+        },
+        {
+            "Name": "5.45x39mm PS gs",
+            "Stats": {
+                "Penetration": "27",
+                "FleshDamage": "50",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.4",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/74PSICON.png/revision/latest?cb=20220129191016"
+        },
+        {
+            "Name": "5.45x39mm T",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "57",
+                "ArmourDamage": "38",
+                "ProjectileSpeed": "883",
+                "Fragment_Chance": "0.16",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/db/74TICON.png/revision/latest?cb=20220129191014"
+        },
+        {
+            "Name": "5.45x39mm FMJ",
+            "Stats": {
+                "Penetration": "21",
+                "FleshDamage": "56",
+                "ArmourDamage": "30",
+                "ProjectileSpeed": "884",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.26"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/74FMJICON.png/revision/latest?cb=20220129050710"
+        },
+        {
+            "Name": "5.45x39mm US gs",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "65",
+                "ArmourDamage": "34",
+                "ProjectileSpeed": "303",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/74USICON.png/revision/latest?cb=20220129191012"
+        },
+        {
+            "Name": "5.45x39mm PRS gs",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "60",
+                "ArmourDamage": "28",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.04"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/74PRSICON.png/revision/latest?cb=20220129191017"
+        },
+        {
+            "Name": "5.45x39mm HP",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "74",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "884",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/74HPICON.png/revision/latest?cb=20220120234758"
+        },
+        {
+            "Name": "5.45x39mm SP",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "68",
+                "ArmourDamage": "34",
+                "ProjectileSpeed": "873",
+                "Fragment_Chance": "0.45",
+                "RichochetChance": "0.15"
+            },
+            "Weapons": ["RPK-16", "AKS-74UN", "AKS-74UB", "AKS-74U", "AKS-74N", "AKS-74", "AK-74N", "AK-74M", "AK-74", "AK-105"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/74SPICON.png/revision/latest?cb=20220129050706"
+        },
+        {
+            "Name": "12.7x55mm PS12B",
+            "Stats": {
+                "Penetration": "46",
+                "FleshDamage": "102",
+                "ArmourDamage": "57",
+                "ProjectileSpeed": "300",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.65"
+            },
+            "Weapons": ["ASh-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/12.7x55_PS12B_icon.png/revision/latest/scale-to-width-down/64?cb=20220108012814"
+        },
+        {
+            "Name": "12.7x55mm PS12",
+            "Stats": {
+                "Penetration": "28",
+                "FleshDamage": "115",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "285",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": ["ASh-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/12.7x55_PS12_icon.png/revision/latest/scale-to-width-down/64?cb=20220108012802"
+        },
+        {
+            "Name": "12.7x55mm PS12A",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "165",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": ["ASh-12"],
+            "Image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/12.7x55_PS12A_icon.png/revision/latest/scale-to-width-down/64?cb=20220108012809"
+        }
+    ]
+}

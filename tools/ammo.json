@@ -1,0 +1,1849 @@
+{
+    "Ammo": [
+        {
+        "Name": "AP SX",
+        "Stats": {
+            "penetration": "53",
+            "FleshDamage": "35",
+            "ArmourDamage": "46%",
+            "ProjectileSpeed": "680M/S",
+            "Fragment_Chance": "0.1",
+            "RichochetChance": "0.6"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/4.6x30APenIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013742"
+    },
+    {
+        "Name": "FMJ SX",
+        "Stats": {
+            "penetration": "40",
+            "FleshDamage": "43",
+            "ArmourDamage": "41%",
+            "ProjectileSpeed": "620M/S",
+            "Fragment_Chance": "0.2",
+            "RichochetChance": "0.4"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/4.6x30FMJIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013741"
+    },
+    {
+        "Name": "Subsonic SX",
+        "Stats": {
+            "penetration": "36",
+            "FleshDamage": "45",
+            "ArmourDamage": "46%",
+            "ProjectileSpeed": "290M/S",
+            "Fragment_Chance": "0.2",
+            "RichochetChance": "0.5"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/4.6x30SubsonicIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013739"
+    },
+    {
+        "Name": "Action SX",
+        "Stats": {
+            "penetration": "18",
+            "FleshDamage": "65",
+            "ArmourDamage": "39%",
+            "ProjectileSpeed": "690M/S",
+            "Fragment_Chance": "0.5",
+            "RichochetChance": "0.3"
+        },
+        "weapons": [
+            "MP7A1",
+            "MP7A2"
+        ],
+        "image_url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/4.6x30ActionIcon.png/revision/latest/scale-to-width-down/64?cb=20220130013744"
+    },
+        {
+            "Name": ".366 TKM AP",
+            "Stats": {
+                "Penetration": "42",
+                "FleshDamage": "90",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "602",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".366 TKM EKO",
+            "Stats": {
+                "Penetration": "30",
+                "FleshDamage": "73",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "770",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".366 TKM FMJ",
+            "Stats": {
+                "Penetration": "23",
+                "FleshDamage": "98",
+                "ArmourDamage": "48",
+                "ProjectileSpeed": "580",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".366 TKM Geksa",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "110",
+                "ArmourDamage": "38",
+                "ProjectileSpeed": "550",
+                "Fragment_Chance": "0.45",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".45 ACP AP",
+            "Stats": {
+                "Penetration": "38",
+                "FleshDamage": "70",
+                "ArmourDamage": "43",
+                "ProjectileSpeed": "299",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".45 ACP Match FMJ",
+            "Stats": {
+                "Penetration": "25",
+                "FleshDamage": "76",
+                "ArmourDamage": "36",
+                "ProjectileSpeed": "285",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".45 ACP Lasermatch FMJ",
+            "Stats": {
+                "Penetration": "25",
+                "FleshDamage": "80",
+                "ArmourDamage": "37",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.01",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".45 ACP Hydra-Shock",
+            "Stats": {
+                "Penetration": "13",
+                "FleshDamage": "105",
+                "ArmourDamage": "30",
+                "ProjectileSpeed": "274",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.066"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".45 RIP",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "137",
+                "ArmourDamage": "12",
+                "ProjectileSpeed": "293",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.002"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70 AP-20 Slug",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "164",
+                "ArmourDamage": "65",
+                "ProjectileSpeed": "510",
+                "Fragment_Chance": "0.03",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm Flechette",
+            "Stats": {
+                "Penetration": "31",
+                "FleshDamage": "25×8",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "320",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm Shell with .50 BMG",
+            "Stats": {
+                "Penetration": "26",
+                "FleshDamage": "197",
+                "ArmourDamage": "57",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm FTX Custom Llte Slug",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "183",
+                "ArmourDamage": "50",
+                "ProjectileSpeed": "480",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm \"Poleva-6u\" Slug",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "150",
+                "ArmourDamage": "50",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm Dual Sabot Slug",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "85×2",
+                "ArmourDamage": "65",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm \"Poleva-3\" Slug",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "140",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm Led Slug",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "167",
+                "ArmourDamage": "45",
+                "ProjectileSpeed": "370",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70 HP Slug Copper Sabot Premier",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "206",
+                "ArmourDamage": "46",
+                "ProjectileSpeed": "442",
+                "Fragment_Chance": "0.38",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm Grizzly 40 Slug",
+            "Stats": {
+                "Penetration": "12",
+                "FleshDamage": "190",
+                "ArmourDamage": "48",
+                "ProjectileSpeed": "390",
+                "Fragment_Chance": "0.12",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm HP Slug \"SFormance\"",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "220",
+                "ArmourDamage": "12",
+                "ProjectileSpeed": "594",
+                "Fragment_Chance": "0.39",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70 7mm Buckshot",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "39×8",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70 6.5mm \"Express\"",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "35×9",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70 \"Magnum\"",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "50×8",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "385",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70mm RIP",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "265",
+                "ArmourDamage": "11",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.01"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12x70 5.25mm Buckshot",
+            "Stats": {
+                "Penetration": "1",
+                "FleshDamage": "37×8",
+                "ArmourDamage": "15",
+                "ProjectileSpeed": "320",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70mm \"Poleva-6u\" Slug",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "135",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "445",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70mm Star Rlug ",
+            "Stats": {
+                "Penetration": "16",
+                "FleshDamage": "154",
+                "ArmourDamage": "42",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70mm \"Poleva-3\" Slug ",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "120",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "425",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70mm Devastator Slug",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "198",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "405",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70 7.5mm Buckshot",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "25×8",
+                "ArmourDamage": "14",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70 7.3mm Buckshot",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "23×9",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "475",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70 6.2mm Buckshot",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "22×8",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "20x70 5.6mm Buckshot",
+            "Stats": {
+                "Penetration": "1",
+                "FleshDamage": "26×8",
+                "ArmourDamage": "12",
+                "ProjectileSpeed": "340",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "23x75mm \"Barricade\"",
+            "Stats": {
+                "Penetration": "39",
+                "FleshDamage": "192",
+                "ArmourDamage": "75",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "23x75mm Shrapnel-10",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "87x8",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "270",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "23x75mm Shrapnel-25",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "78x8",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "375",
+                "Fragment_Chance": "0",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "23x75mm \"Star\"",
+            "Stats": {
+                "Penetration": "0",
+                "FleshDamage": "0",
+                "ArmourDamage": "0",
+                "ProjectileSpeed": "0",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x39mm BP gs",
+            "Stats": {
+                "Penetration": "55",
+                "FleshDamage": "60",
+                "ArmourDamage": "68",
+                "ProjectileSpeed": "295",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.5"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x39mm SPP gs",
+            "Stats": {
+                "Penetration": "50",
+                "FleshDamage": "64",
+                "ArmourDamage": "56",
+                "ProjectileSpeed": "310",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x39mm PAB-9 gs",
+            "Stats": {
+                "Penetration": "48",
+                "FleshDamage": "62",
+                "ArmourDamage": "72",
+                "ProjectileSpeed": "320",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.48"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x39mm SP-6",
+            "Stats": {
+                "Penetration": "46",
+                "FleshDamage": "58",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "305",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.5"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x39mm SP-5",
+            "Stats": {
+                "Penetration": "38",
+                "FleshDamage": "68",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x21mm BT gzh",
+            "Stats": {
+                "Penetration": "39",
+                "FleshDamage": "63",
+                "ArmourDamage": "47",
+                "ProjectileSpeed": "397",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x21mm PS gzh",
+            "Stats": {
+                "Penetration": "35",
+                "FleshDamage": "49",
+                "ArmourDamage": "46",
+                "ProjectileSpeed": "410",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x21mm P gzh",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "65",
+                "ArmourDamage": "44",
+                "ProjectileSpeed": "413",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x21mm PE gzh",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "80",
+                "ArmourDamage": "63",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm PBP gzh",
+            "Stats": {
+                "Penetration": "39",
+                "FleshDamage": "52",
+                "ArmourDamage": "53",
+                "ProjectileSpeed": "560",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm AP 6.3",
+            "Stats": {
+                "Penetration": "30",
+                "FleshDamage": "52",
+                "ArmourDamage": "48",
+                "ProjectileSpeed": "392",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm Pst gzh",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "54",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "457",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm T gzh",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "58",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "365",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm Luger CCI",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "70",
+                "ArmourDamage": "38",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm PSO gzh",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "59",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "340",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm QuakeMaker",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "85",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x19mm RIP",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "102",
+                "ArmourDamage": "11",
+                "ProjectileSpeed": "381",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.002"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PBM gzh",
+            "Stats": {
+                "Penetration": "28",
+                "FleshDamage": "40",
+                "ArmourDamage": "30",
+                "ProjectileSpeed": "519",
+                "Fragment_Chance": "0.16",
+                "RichochetChance": "0.09"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PMM PstM gzh",
+            "Stats": {
+                "Penetration": "24",
+                "FleshDamage": "58",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.095"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM 9 BZT gzh",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "53",
+                "ArmourDamage": "28",
+                "ProjectileSpeed": "325",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.095"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM RG028 gzh",
+            "Stats": {
+                "Penetration": "13",
+                "FleshDamage": "65",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "330",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM  Pst gzh",
+            "Stats": {
+                "Penetration": "12",
+                "FleshDamage": "50",
+                "ArmourDamage": "26",
+                "ProjectileSpeed": "298",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PPT gzh",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "59",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "301",
+                "Fragment_Chance": "0.166",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PPe gzh",
+            "Stats": {
+                "Penetration": "7",
+                "FleshDamage": "61",
+                "ArmourDamage": "15",
+                "ProjectileSpeed": "297",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PRS gs",
+            "Stats": {
+                "Penetration": "6",
+                "FleshDamage": "58",
+                "ArmourDamage": "16",
+                "ProjectileSpeed": "302",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.01"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PS gs PPO",
+            "Stats": {
+                "Penetration": "6",
+                "FleshDamage": "55",
+                "ArmourDamage": "16",
+                "ProjectileSpeed": "330",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PSO gzh",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "54",
+                "ArmourDamage": "13",
+                "ProjectileSpeed": "315",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM 9 P gzh",
+            "Stats": {
+                "Penetration": "5",
+                "FleshDamage": "50",
+                "ArmourDamage": "16",
+                "ProjectileSpeed": "302",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM PSV",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "69",
+                "ArmourDamage": "5",
+                "ProjectileSpeed": "280",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM SP7 gzh",
+            "Stats": {
+                "Penetration": "2",
+                "FleshDamage": "77",
+                "ArmourDamage": "5",
+                "ProjectileSpeed": "420",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "9x18mm PM SP8 gzh",
+            "Stats": {
+                "Penetration": "1",
+                "FleshDamage": "67",
+                "ArmourDamage": "2",
+                "ProjectileSpeed": "250",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm SS190",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "49",
+                "ArmourDamage": "43",
+                "ProjectileSpeed": "716",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.6"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm SB193",
+            "Stats": {
+                "Penetration": "35",
+                "FleshDamage": "54",
+                "ArmourDamage": "37",
+                "ProjectileSpeed": "305",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm L191",
+            "Stats": {
+                "Penetration": "33",
+                "FleshDamage": "58",
+                "ArmourDamage": "41",
+                "ProjectileSpeed": "716",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.6"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm SS197SR",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "62",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "594",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm R37.X",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "81",
+                "ArmourDamage": "14",
+                "ProjectileSpeed": "724",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm SS198LF",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "74",
+                "ArmourDamage": "15",
+                "ProjectileSpeed": "792",
+                "Fragment_Chance": "0.8",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.7x28mm R37.F",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "98",
+                "ArmourDamage": "7",
+                "ProjectileSpeed": "729",
+                "Fragment_Chance": "1",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".300 ACC Blackout AP",
+            "Stats": {
+                "Penetration": "45",
+                "FleshDamage": "51",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "720",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".300 Blackout M62 Tracer",
+            "Stats": {
+                "Penetration": "34",
+                "FleshDamage": "54",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "442",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.37"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".300 ACC Blackout BCP FMJ",
+            "Stats": {
+                "Penetration": "29",
+                "FleshDamage": "60",
+                "ArmourDamage": "36",
+                "ProjectileSpeed": "605",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".300 Blackout V-Max",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "72",
+                "ArmourDamage": "25",
+                "ProjectileSpeed": "723",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".300 Whisper",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "90",
+                "ArmourDamage": "19",
+                "ProjectileSpeed": "853",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x39mm MAI AP",
+            "Stats": {
+                "Penetration": "58",
+                "FleshDamage": "46",
+                "ArmourDamage": "76",
+                "ProjectileSpeed": "875",
+                "Fragment_Chance": "0.05",
+                "RichochetChance": "0.435"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x39mm BP gzh",
+            "Stats": {
+                "Penetration": "47",
+                "FleshDamage": "58",
+                "ArmourDamage": "63",
+                "ProjectileSpeed": "730",
+                "Fragment_Chance": "0.12",
+                "RichochetChance": "0.315"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x39mm PS gzh",
+            "Stats": {
+                "Penetration": "32",
+                "FleshDamage": "57",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "700",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.35"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x39mm T45M1 gzh",
+            "Stats": {
+                "Penetration": "30",
+                "FleshDamage": "62",
+                "ArmourDamage": "46",
+                "ProjectileSpeed": "720",
+                "Fragment_Chance": "0.12",
+                "RichochetChance": "0.35"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x39mm US gzh",
+            "Stats": {
+                "Penetration": "29",
+                "FleshDamage": "56",
+                "ArmourDamage": "42",
+                "ProjectileSpeed": "300",
+                "Fragment_Chance": "0.075",
+                "RichochetChance": "0.358"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x39mm HP",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "87",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "754",
+                "Fragment_Chance": "0.2625",
+                "RichochetChance": "0.175"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm M993",
+            "Stats": {
+                "Penetration": "70",
+                "FleshDamage": "67",
+                "ArmourDamage": "85",
+                "ProjectileSpeed": "910",
+                "Fragment_Chance": "0.13",
+                "RichochetChance": "0.28"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm M61",
+            "Stats": {
+                "Penetration": "64",
+                "FleshDamage": "70",
+                "ArmourDamage": "83",
+                "ProjectileSpeed": "849",
+                "Fragment_Chance": "0.13",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm M62",
+            "Stats": {
+                "Penetration": "44",
+                "FleshDamage": "79",
+                "ArmourDamage": "75",
+                "ProjectileSpeed": "816",
+                "Fragment_Chance": "0.14",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm M80",
+            "Stats": {
+                "Penetration": "41",
+                "FleshDamage": "80",
+                "ArmourDamage": "66",
+                "ProjectileSpeed": "833",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm TCW SP",
+            "Stats": {
+                "Penetration": "36",
+                "FleshDamage": "60",
+                "ArmourDamage": "40",
+                "ProjectileSpeed": "808",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.5"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm  BPZ FMJ",
+            "Stats": {
+                "Penetration": "31",
+                "FleshDamage": "88",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "840",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x51mm Ultra Nosler",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "107",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "822",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x54mmR BS",
+            "Stats": {
+                "Penetration": "70",
+                "FleshDamage": "72",
+                "ArmourDamage": "88",
+                "ProjectileSpeed": "785",
+                "Fragment_Chance": "0.083",
+                "RichochetChance": "0.34"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x54mmR SNB",
+            "Stats": {
+                "Penetration": "62",
+                "FleshDamage": "75",
+                "ArmourDamage": "87",
+                "ProjectileSpeed": "875",
+                "Fragment_Chance": "0.08",
+                "RichochetChance": "0.285"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x54mmR 7T gzh",
+            "Stats": {
+                "Penetration": "59",
+                "FleshDamage": "78",
+                "ArmourDamage": "87",
+                "ProjectileSpeed": "820",
+                "Fragment_Chance": "0.081",
+                "RichochetChance": "0.265"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x54mmR PS",
+            "Stats": {
+                "Penetration": "45",
+                "FleshDamage": "86",
+                "ArmourDamage": "84",
+                "ProjectileSpeed": "875",
+                "Fragment_Chance": "0.083",
+                "RichochetChance": "0.285"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x54mmR LPS Gzh",
+            "Stats": {
+                "Penetration": "42",
+                "FleshDamage": "81",
+                "ArmourDamage": "78",
+                "ProjectileSpeed": "865",
+                "Fragment_Chance": "0.18",
+                "RichochetChance": "0.39"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x54mmR T-46M",
+            "Stats": {
+                "Penetration": "41",
+                "FleshDamage": "82",
+                "ArmourDamage": "83",
+                "ProjectileSpeed": "800",
+                "Fragment_Chance": "0.18",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".338 Lapua Magnum AP",
+            "Stats": {
+                "Penetration": "79",
+                "FleshDamage": "115",
+                "ArmourDamage": "89",
+                "ProjectileSpeed": "849",
+                "Fragment_Chance": "0.13",
+                "RichochetChance": "0.3"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".338 Lapua Magnum FMJ",
+            "Stats": {
+                "Penetration": "47",
+                "FleshDamage": "122",
+                "ArmourDamage": "83",
+                "ProjectileSpeed": "900",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".338 UPZ Lapua Magnum",
+            "Stats": {
+                "Penetration": "32",
+                "FleshDamage": "142",
+                "ArmourDamage": "70",
+                "ProjectileSpeed": "849",
+                "Fragment_Chance": "0.6",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": ".338 Lapua Magnum TAC-X",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "196",
+                "ArmourDamage": "55",
+                "ProjectileSpeed": "880",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT Pst gzh",
+            "Stats": {
+                "Penetration": "25",
+                "FleshDamage": "50",
+                "ArmourDamage": "36",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT PT gzh",
+            "Stats": {
+                "Penetration": "18",
+                "FleshDamage": "55",
+                "ArmourDamage": "34",
+                "ProjectileSpeed": "415",
+                "Fragment_Chance": "0.166",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT P gl",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "58",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "430",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT AKBS",
+            "Stats": {
+                "Penetration": "12",
+                "FleshDamage": "58",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "425",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT FMJ43",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "60",
+                "ArmourDamage": "29",
+                "ProjectileSpeed": "427",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.065"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT LRN",
+            "Stats": {
+                "Penetration": "8",
+                "FleshDamage": "64",
+                "ArmourDamage": "28",
+                "ProjectileSpeed": "375",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "7.62x25mm TT LRNPC",
+            "Stats": {
+                "Penetration": "7",
+                "FleshDamage": "66",
+                "ArmourDamage": "27",
+                "ProjectileSpeed": "385",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm SSA AP",
+            "Stats": {
+                "Penetration": "56",
+                "FleshDamage": "36",
+                "ArmourDamage": "64",
+                "ProjectileSpeed": "1050",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.48"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm M995",
+            "Stats": {
+                "Penetration": "53",
+                "FleshDamage": "40",
+                "ArmourDamage": "58",
+                "ProjectileSpeed": "1013",
+                "Fragment_Chance": "0.32",
+                "RichochetChance": "0.36"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm M855A1",
+            "Stats": {
+                "Penetration": "45",
+                "FleshDamage": "46",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "945",
+                "Fragment_Chance": "0.34",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm M856A1",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "51",
+                "ArmourDamage": "52",
+                "ProjectileSpeed": "940",
+                "Fragment_Chance": "0.328",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm M855",
+            "Stats": {
+                "Penetration": "28",
+                "FleshDamage": "50",
+                "ArmourDamage": "37",
+                "ProjectileSpeed": "922",
+                "Fragment_Chance": "0.4",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm 55 FMJ",
+            "Stats": {
+                "Penetration": "24",
+                "FleshDamage": "52",
+                "ArmourDamage": "33",
+                "ProjectileSpeed": "957",
+                "Fragment_Chance": "0.5",
+                "RichochetChance": "0.26"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm M856",
+            "Stats": {
+                "Penetration": "23",
+                "FleshDamage": "55",
+                "ArmourDamage": "54",
+                "ProjectileSpeed": "874",
+                "Fragment_Chance": "0.328",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm Mk 318 Mod 0 (SOST)",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "67",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "902",
+                "Fragment_Chance": "0.15",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm MK 255 Mod 0",
+            "Stats": {
+                "Penetration": "17",
+                "FleshDamage": "60",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "936",
+                "Fragment_Chance": "0.03",
+                "RichochetChance": "0.1"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm 55 HP",
+            "Stats": {
+                "Penetration": "9",
+                "FleshDamage": "72",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "947",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.56x45mm Warmageddon",
+            "Stats": {
+                "Penetration": "3",
+                "FleshDamage": "85",
+                "ArmourDamage": "14",
+                "ProjectileSpeed": "910",
+                "Fragment_Chance": "0.9",
+                "RichochetChance": "0.05"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm PPBS gs",
+            "Stats": {
+                "Penetration": "62",
+                "FleshDamage": "37",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "905",
+                "Fragment_Chance": "0.02",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm BS gs",
+            "Stats": {
+                "Penetration": "51",
+                "FleshDamage": "40",
+                "ArmourDamage": "57",
+                "ProjectileSpeed": "830",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm 7N40",
+            "Stats": {
+                "Penetration": "44",
+                "FleshDamage": "52",
+                "ArmourDamage": "50",
+                "ProjectileSpeed": "915",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.15"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm BT",
+            "Stats": {
+                "Penetration": "37",
+                "FleshDamage": "44",
+                "ArmourDamage": "49",
+                "ProjectileSpeed": "880",
+                "Fragment_Chance": "0.164",
+                "RichochetChance": "0.37"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm BP",
+            "Stats": {
+                "Penetration": "35",
+                "FleshDamage": "49",
+                "ArmourDamage": "41",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.16",
+                "RichochetChance": "0.36"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm PP gs",
+            "Stats": {
+                "Penetration": "33",
+                "FleshDamage": "48",
+                "ArmourDamage": "32",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.17",
+                "RichochetChance": "0.38"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm PS gs",
+            "Stats": {
+                "Penetration": "27",
+                "FleshDamage": "50",
+                "ArmourDamage": "35",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.4",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm T",
+            "Stats": {
+                "Penetration": "20",
+                "FleshDamage": "57",
+                "ArmourDamage": "38",
+                "ProjectileSpeed": "883",
+                "Fragment_Chance": "0.16",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm FMJ",
+            "Stats": {
+                "Penetration": "21",
+                "FleshDamage": "56",
+                "ArmourDamage": "30",
+                "ProjectileSpeed": "884",
+                "Fragment_Chance": "0.25",
+                "RichochetChance": "0.26"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm US gs",
+            "Stats": {
+                "Penetration": "15",
+                "FleshDamage": "65",
+                "ArmourDamage": "34",
+                "ProjectileSpeed": "303",
+                "Fragment_Chance": "0.1",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm PRS gs",
+            "Stats": {
+                "Penetration": "14",
+                "FleshDamage": "60",
+                "ArmourDamage": "28",
+                "ProjectileSpeed": "890",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.04"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm HP",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "74",
+                "ArmourDamage": "20",
+                "ProjectileSpeed": "884",
+                "Fragment_Chance": "0.35",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "5.45x39mm SP",
+            "Stats": {
+                "Penetration": "11",
+                "FleshDamage": "68",
+                "ArmourDamage": "34",
+                "ProjectileSpeed": "873",
+                "Fragment_Chance": "0.45",
+                "RichochetChance": "0.15"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12.7x55mm PS12B",
+            "Stats": {
+                "Penetration": "46",
+                "FleshDamage": "102",
+                "ArmourDamage": "57",
+                "ProjectileSpeed": "300",
+                "Fragment_Chance": "0.2",
+                "RichochetChance": "0.65"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12.7x55mm PS12",
+            "Stats": {
+                "Penetration": "28",
+                "FleshDamage": "115",
+                "ArmourDamage": "60",
+                "ProjectileSpeed": "285",
+                "Fragment_Chance": "0.3",
+                "RichochetChance": "0.4"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        },
+        {
+            "Name": "12.7x55mm PS12A",
+            "Stats": {
+                "Penetration": "10",
+                "FleshDamage": "165",
+                "ArmourDamage": "22",
+                "ProjectileSpeed": "290",
+                "Fragment_Chance": "0.7",
+                "RichochetChance": "0.2"
+            },
+            "Weapons": [],
+            "ImageURL": ""
+        }
+    ]
+}
